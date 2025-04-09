@@ -36,10 +36,6 @@
 
 ### 🧠 LeetCode Stats
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=300%2B+Problems+Solved+on+LeetCode;Building+Logic+One+Bug+at+a+Time+💻;Consistent+Practice+%3D+Growth" alt="Typing Animation LeetCode Stats" />
-</p>
-
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SHANMUGA_SUNDARAM_S)](https://leetcode.com/u/SHANMUGA_SUNDARAM_S/)
 
 ---
@@ -71,10 +67,10 @@
 
 ---
 
-### 🐍 Contribution Graph Snake Animation
+### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/sundar-1234/sundar-1234/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sundar-1234&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 ---
