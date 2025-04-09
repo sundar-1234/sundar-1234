@@ -26,14 +26,14 @@
 
 ---
 
-### 📌 Notable Projects
+### 💼 Notable Projects
 
-- 🎫 **Railway Ticket Reservation System**  
-  Java-based CLI app with RAC, waiting list logic, and OOP design  
-- 🌊 **Vehicle & Passenger Safety System**  
-  IoT system using Raspberry Pi, GPS, GSM with Telegram bot for flood alerts  
-- 🍔 **Craving Zone**  
-  Full-stack food ordering app with React, Node, MongoDB & Stripe API
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎫 *Railway Ticket Reservation System* <br>Java-based CLI app with RAC, waiting list logic, and OOP design. | Command-line reservation logic with passenger management & cancellation. | Java |
+| 🌊 *Vehicle & Passenger Safety System* <br>IoT-based real-time flood detection and alerts. | GPS & GSM integrated with Raspberry Pi and Telegram bot for safety notifications. | Raspberry Pi, Python, Telegram API |
+| 🍔 *Craving Zone* <br>Full-stack food ordering application. | Real-time cart, menu, authentication, Stripe payment & responsive UI. | React, Node.js, MongoDB, Stripe API |
+
 
 ---
 
