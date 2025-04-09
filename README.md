@@ -67,12 +67,6 @@
 
 ---
 
-### 📈 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sundar-1234&theme=react-dark&area=true&hide_border=true" alt="GitHub Contribution Graph" />
-</p>
-
 ---
 
 ### 🌐 Connect With Me
