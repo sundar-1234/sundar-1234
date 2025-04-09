@@ -3,7 +3,6 @@
   <img src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" alt="Coding Banner" width="40%" />
 </p>
 
-
 <!-- Static Name + Typing Animation -->
 <h1 align="center">Hi 👋, I'm SHANMUGA SUNDARAM S</h1>
 
@@ -16,7 +15,6 @@
 ### 👨‍💻 About Me
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="200" alt="Dark Coding GIF" />
-
 
 - 🎓 I’m currently studying at **Bannari Amman Institute of Technology**
 - 🌱 Learning **Full Stack Development** and **Data Structures**
@@ -34,10 +32,13 @@
 | 🌊 *Vehicle & Passenger Safety System* <br>IoT-based real-time flood detection and alerts. | GPS & GSM integrated with Raspberry Pi and Telegram bot for safety notifications. | Raspberry Pi, Python, Telegram API |
 | 🍔 *Craving Zone* <br>Full-stack food ordering application. | Real-time cart, menu, authentication, Stripe payment & responsive UI. | React, Node.js, MongoDB, Stripe API |
 
-
 ---
 
 ### 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F5FF&center=true&vCenter=true&width=500&lines=300%2B+Problems+Solved+on+LeetCode;Building+Logic+One+Bug+at+a+Time+💻;Consistent+Practice+%3D+Growth" alt="Typing Animation LeetCode Stats" />
+</p>
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/SHANMUGA_SUNDARAM_S)](https://leetcode.com/u/SHANMUGA_SUNDARAM_S/)
 
@@ -66,6 +67,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sundar-1234&show_icons=true&theme=radical" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sundar-1234&layout=compact&langs_count=10&hide=c&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🐍 Contribution Graph Snake Animation
+
+<p align="center">
+  <img src="https://github.com/sundar-1234/sundar-1234/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </p>
 
 ---
